@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+label{
+    display: block;
+    padding: 1rem;
+    font-size: xx-large;
+    color: #6C63FF;
+}
+input{
+    border: #6C63FF 1px solid;
+    height: 1rem;
+    padding: 0.5rem;
+}
+#check-btn{
+    width: 5rem;
+    height: 3rem;
+    text-align: center;
+    font-size: large;
+    background-color: #6C63FF;
+    color: white;
+    border: #6C63FF;
+}
+#output-div{
+    padding: 1rem;
+    font-size: x-large;
+    color: #6C63FF;
+}
+h2{
+    color: #6C63FF;
+    padding: 1rem;
+}
